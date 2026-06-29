@@ -47,7 +47,8 @@ Built a 4-visual dashboard displaying segment counts, average spend, average rec
 - **Casual Browsers** → Upsell with category-based promotions
 
 ## Repository Structure
-​```
+
+```
 ├── notebooks/
 │   ├── 01_rfm_sql.ipynb
 │   └── 02_eda_segmentation.ipynb
