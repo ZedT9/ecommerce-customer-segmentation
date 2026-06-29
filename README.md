@@ -54,8 +54,7 @@ Built a 4-visual dashboard displaying segment counts, average spend, average rec
 ├── visuals/
 │   └── olist_dashboard.pdf
 └── README.md
-​```
-
+```
 ## How to Reproduce
 1. Download the Olist dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. Upload CSVs to Google Drive under `ecommerce-segmentation/data/`
